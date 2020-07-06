@@ -41,7 +41,7 @@
     "is-promise": "^2.1.0",
     "lodash": "^4.17.10",
     "pify": "^3.0.0",
-    "steno": "^0.4.1"
+    "steno": "^0.5.0"
   },
   "devDependencies": {
     "babel-cli": "^6.2.0",
